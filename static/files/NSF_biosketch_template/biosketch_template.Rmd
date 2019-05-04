@@ -1,0 +1,68 @@
+---
+title: "Biographical Sketch"
+output:
+  word_document:
+    reference_docx: biosketch_template.docx
+---
+# Name
+
+Title
+
+Department
+
+Institution Address
+
+Email
+
+
+## Professional Preparation
+
+|  |  |  |  |
+|---|---|---|---|
+|Undergraduate Institution | Location | Major | Degree & Year |
+|Graduate Institution | Location | Major | Degree & Year |
+|Postdoctoral Institution | Location | Area | Inclusive Dates (years) |
+
+## Appointments
+
+|  |  |  |
+|---|---|---|
+Inclusive Dates (years) | Position | Institution (most recent first)
+Inclusive Dates (years) | Position | Institution
+
+## Products
+
+### Most Relevant Products
+1. Product (names of all authors, date of publication or release, title, title of enclosing work such as journal or book, volume, issue, pages, website and URL or other Persistent Identifier)
+
+2. Product
+
+3. Product
+
+4. Product
+
+5. Product
+
+### Other Significant Products
+
+1. Product (names of all authors, date of publication or release, title, title of enclosing work such as journal or book, volume, issue, pages, website and URL or other Persistent Identifier)
+
+2. Product
+
+3. Product
+
+4. Product
+
+5. Product 
+
+## Synergistic Activities
+
+1. Activity (innovations in teaching and training (e.g., development of curricular materials and pedagogical methods); contributions to the science of learning; development and/or refinement of research tools; computation methodologies and algorithms for problem-solving; development of databases to support research and education; broadening the participation of groups underrepresented in STEM; and service to the scientific and engineering community outside of the individual’s immediate organization.)
+
+2. Activity
+
+3. Activity
+
+4. Activity
+
+5. Activity
