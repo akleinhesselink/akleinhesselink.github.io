@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2019-05-05T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,42 +10,46 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Time Series Analysis",
-    "Stability and Resilience", 
     "Ecological Forecasting",
-    "Dynamic Systems", 
-    "Causal Inference"
+    "Species Coexistence",
+    "Citizen Science", 
+    "Machine Vision for Ecology", 
+    "Restoration Ecology"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Oceanography"
-  institution = "University of California San Diego"
-  year = 2015
+  course = "PhD in Ecology"
+  institution = "Utah State University"
+  year = 2017
 
 [[education.courses]]
-  course = "MA in Experimental Psychology"
-  institution = "University of California San Diego"
-  year = 2007
+  course = "MS in Biology"
+  institution = "Sonoma State University"
+  year = 2011
 
 [[education.courses]]
-  course = "BSc in Computer Science"
-  institution = "California Institute of Technology"
-  year = 2006
+  course = "BA in Biology"
+  institution = "Carleton College"
+  year = 2005
  
 +++
 
 # Biography
 
-I'm a Postdoctoral Associate and Moore Data Fellow in the [Weecology Lab](https://www.weecology.org) at the University of Florida.
+I'm a Postdoctoral Associate in the [Kraft Lab](https://sites.lifesci.ucla.edu/eeb-kraft/) at UCLA.
 
-The goal of my research is to understand how complex systems, specifically ecosystems, change over time. I develop new methods for analyzing time series and apply these methods to observational datasets in order to answer questions about what is occurring in the underlying systems.
+Ecologists can now collect orders of magnitude more data than they could just a few decades ago and ecologists have turned to increasingly complex statistics to make sense of all this data.  But has this made a difference in how well we actually *understand* ecological communities? 
 
-Some typical research questions are:
+If it has, how can ecologists *demonstrate* that our research has improved our understanding of what goes on in nature? 
 
-* What components of ecosystems are changing and how fast?
-* How do different processes interact to produce patterns across temporal, spatial, and taxonomic scales?
-* What ecological properties are predictable and how well?
-* How do we best build causal models of mechanisms to guide forecasting and management?
+As an early career ecologists I am excited by a new emphasis on prediction and [forecasting](https://ecoforecast.org/book/) as a means of demonstrating ecological understanding. A focus on what ecologists can repeatedly predict with confidence in ecological communities can breathe fresh life into research areas where theory has outpaced our ability to test it.  
 
-I also believe that academia needs a cultural shift to be more welcoming, inclusive, and accessible; and that these aims overlap with support for open and reproducible research practices. To achieve these goals, I support changes to institutional policies, better student support and training, and work to better understand and deconstruct existing biases and prejudices.
+* Can we predict species short-term response to climate change?
+* Can we predict species coexistence? 
+* Is it possible to restore ecosystem stability or just ecosystem states? 
+* Do statistical descriptions of ecological states give us information on ecological dynamics or stability? 
+
+I believe these questions go beyond academic interest.  In order to manage ecosystems and conserve species in the face of climate change, and in order to undue decades of damage through the ecological restoration, we need to focus on developing ecological theory that is general and predictive. 
+
+I'm also excited about the rapid growth of new citizen science datasets such as [iNaturalist](https://www.inaturalist.org/) and [eBird](https://www.ebird.org) as ways to test our ability to test our ecological predictions.  

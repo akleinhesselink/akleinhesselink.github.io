@@ -34,19 +34,19 @@ filter_default = 0
    tag = "*"
 
  [[filter]]
-   name = "Time Series"
-   tag = "Time series"
+   name = "Ecological Forecasting"
+   tag = "Forecasting"
 
  [[filter]]
-   name = "Stability & Resilience"
-   tag = "Stability"
+   name = "Species Coexistence"
+   tag = "Coexistence"
    
  [[filter]]
-   name = "Forecasting"
-   tag = "Forecasting"
+   name = "Citizen Science"
+   tag = "Citizen"
    
  [[filter]]
-   name = "Software"
-   tag = "Software"
+   name = "Restoration Ecology"
+   tag = "Restoration"
 
 +++
