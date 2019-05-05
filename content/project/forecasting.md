@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = 2018-09-10T00:00:00
+date = 2019-05-05T00:00:00
 
 # Project title.
 title = "Forecasting"
@@ -13,7 +13,7 @@ image_preview = "forecasting-preview.gif"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Forecasting", "Time Series", "Fisheries", "Sunspots", "Nonlinear Dynamics", "Algal Blooms"]
+tags = ["Forecasting", "Succession", "Restoration", "Bayesian", "Climate Change"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -24,16 +24,25 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "forecasting.gif"
-caption = "One-month ahead forecasts of *Dipodomys merriami* abundance at Portal"
+caption = "Forecasting sagebrush steppe change in response to precipitation experiment"
 
 +++
 
-Why is forecasting in ecology of interest? In some cases, advance knowledge about events (e.g. algal blooms) can be useful for responses or interventions, in some cases predicting population changes (e.g. of fish) is a critical component of management for sustainability.
+The science of ecology should play a central role in informing our decisions about how to manage the environment. However, this statement glosses over the fact that the understanding provided by science always comes with a degree of uncertainty and that there are often competing answers to any question.  What then is the best way for ecologists to *demonstrate* the degree of uncertainty in our understanding? And what is the best way to ejudicate competing claims of ecological understanding in the literature? 
 
-More broadly, however, forecasting is a way of validating our models by testing predictions against observations. Importantly, while there are many studies about different mechanisms in ecology that may produce stable or unstable systems, much remains unclear about how natural ecosystems operate, especially in response to climate change.
+Some ecologists are increasingly arguing that the most persuasive demonstration of ecological understanding is to make and test predictions.
 
-Some related papers:
+Peter Adler and I took a crack at making ecological predictions in a drought-shelter and irrigation experiment in the sagebrush steppe of eastern Idaho.  
 
-* How much is the level of predictability of ecological time series attributable to data quality, modeling, and/or the intrinsic stochasticity of the underlying system? [Pennekamp et al. (preprint) "The intrinsic predictability of ecological time series and its potential to guide forecasting"](/publication/2018_intrinsic-predictability/)
-* Predicting algal blooms using models that incorporate biology and stochastic physical drivers. [McGowan et al. 2017 "Predicting coastal algal blooms in southern California"](/publication/2017_predicting-algal-blooms/)
-* How much ecological mechanism needs to be explicitly written out in equations to forecast? (not very much) [Ye et al. 2015 "Equation-free mechanistic ecosystem forecasting using empirical dynamic modeling"](/publication/2015_equation-free-modeling/)
+We used several decades worth of data to build population models for the dominant plant species in this community.  By fitting regression for each each species growth in response to annual temperature variation we developed a statistical model that should, in theory, predict how those species would respond to climate in the future.  
+
+We could have waited several decades for the climate to continue changing in order to test these predicitons.  But that would take... several decades.  
+
+As a shortcut we used a drought shelter and irrigation experiment in the field to test whether species' responses to historical climate variation could predict species contemporary response to short-term experimentally imposed drought and irrigation.  
+
+Our resuls show that... 
+
+
+
+
+
