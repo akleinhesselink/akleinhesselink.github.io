@@ -69,7 +69,7 @@ enableGitInfo = true
   organizations = [ { name = "University of California", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "IMG_1095.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "arklein@ucla.edu"
   iNaturalist = "https://www.inaturalist.org/people/andy71"
   eBird = "https://ebird.org/profile/MTM5OTI2/US-CA"
@@ -234,14 +234,9 @@ enableGitInfo = true
     link = "mailto:{first}.[[last]]@ucla.edu"
 
   [[params.social]]
-    icon = "iNaturalist"
+    icon = "github"
     icon_pack = "fa"
-    link = "https://www.inaturalist.org/people/andy71"
-
-  [[params.social]]
-    icon = "eBird"
-    icon_pack = "fa"
-    link = "https://ebird.org/profile/MTM5OTI2/US-CA"
+    link = "https//github.com/akleinhesselink"
 
   [[params.social]]
     icon = "google-scholar"
@@ -249,27 +244,44 @@ enableGitInfo = true
     link = "https://scholar.google.com/citations?user=Hv1P9zYAAAAJ&hl=en"
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/akleinhesselink"
-
-  [[params.social]]
     icon = "orcid"
     icon_pack = "ai"
     link = "https://orcid.org/0000-0003-2149-2027"
 
   [[params.social]]
-    icon = "linkedin-in"
-    icon_pack = "fab"
+    icon = "publons"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0003-2149-2027"
+
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Andrew_Kleinhesselink/"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
     link = "https://www.linkedin.com/in/andrew-kleinhesselink-6116b294/"
-
-
+    
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]
   #   icon = "cv"
   #   icon_pack = "ai"
   #   link = "files/cv.pdf"
+  
+  [[params.social]]
+    icon = "inaturalist.png"
+    #icon_pack = "fab"
+    link = "https://www.inaturalist.org/people/andy71"
+
+  [[params.social]]
+    icon = "ebird"
+    icon_pack = "fab"
+    link = "https://ebird.org/profile/MTM5OTI2/US-CA"
+
+
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

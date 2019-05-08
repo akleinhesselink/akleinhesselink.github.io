@@ -37,11 +37,11 @@ weight = 5
 
 # Biography
 
-I'm a Postdoctoral Associate in the [Kraft Lab](https://sites.lifesci.ucla.edu/eeb-kraft/) at UCLA.
+I'm a Postdoctoral Associate in the [Kraft Lab](https://sites.lifesci.ucla.edu/eeb-kraft/) at UCLA. My focus is on coexistence and using population models to predict species response to global change. 
 
-I believe that the surest way ecologists can demonstrate ecological understanding is to make successful ecological predictions and [forecasts](https://ecoforecast.org/book/). 
+I believe that the best way ecologists can demonstrate ecological understanding is to make successful ecological predictions and [forecasts](https://ecoforecast.org/book/). 
 
-A focus on what ecologists can repeatedly predict with confidence can breathe fresh life into research areas where theory has outpaced our ability to test it.  
+A focus on what ecologists can predict repeatedly and with confidence will breathe fresh life into research areas where theory has outpaced our ability to test it.  
 
 * Can we predict species short-term response to climate change?
 * Can we predict species coexistence? 
