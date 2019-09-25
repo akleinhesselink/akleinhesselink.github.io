@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Ecological Forecasting",
     "Species Coexistence",
+    "Ecological Forecasting",
     "Citizen Science", 
-    "Machine Vision for Ecology", 
+    "Urban Ecology",
     "Restoration Ecology"
   ]
 
@@ -39,15 +39,10 @@ weight = 5
 
 I'm a Postdoctoral Associate in the [Kraft Lab](https://sites.lifesci.ucla.edu/eeb-kraft/) at UCLA. My focus is on coexistence and using population models to predict species response to global change. 
 
-I believe that the best way ecologists can demonstrate ecological understanding is to make successful ecological predictions and [forecasts](https://ecoforecast.org/book/). 
+My recent research focuses on two areas:  
+- 1. providing a general definition for higher order interactions (HOIs) and in testing for their strength in natural ecosystems. (link to preprint)
+- 2. integrating plant functional traits into models of community assembly and coexistence. (link to github)
 
-A focus on what ecologists can predict repeatedly and with confidence will breathe fresh life into research areas where theory has outpaced our ability to test it.  
+I'm also excited about the rapid growth of citizen science datasets such as  [iNaturalist](https://www.inaturalist.org/) and [eBird](https://www.ebird.org). 
+I believe these datasets are an ideal opportunity for teaching undergraduates and graduate students in ecology about basic ecological patterns and processes as well as opportunities to engage the broader community outside of academia.  These datasets are also providing an increasingly detailed look at species occurence in urban landscapes--habitats that have often been overlooked by field ecologists. These datasets also provide opportunities to test ecologicial forecasts in real time. 
 
-* Can we predict species short-term response to climate change?
-* Can we predict species coexistence? 
-* Is it possible to restore ecosystem stability or just ecosystem states? 
-* Do statistical descriptions of ecological states give us information on ecological dynamics or stability? 
-
-As an early career ecologists, I'm also excited about the rise of new technology for improving data collection in the field such as machine vision. 
-
-I'm also excited about the rapid growth of new citizen science datasets such as [iNaturalist](https://www.inaturalist.org/) and [eBird](https://www.ebird.org). These continuously evolving datasets present ecologists with the ideal opportunity to make and test ecological predictions.  
