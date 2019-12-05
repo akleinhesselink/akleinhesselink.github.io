@@ -66,7 +66,7 @@ enableGitInfo = true
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of California", url = "" } ]
+  organizations = [ { name = "University of California Los Angeles", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "IMG_1095.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -114,10 +114,10 @@ enableGitInfo = true
   time_format = "3:04 PM EST"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
   section_pager = false
@@ -265,10 +265,10 @@ enableGitInfo = true
     
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+  [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "files/Kleinhesselink_CV.pdf"
   
   [[params.social]]
     icon = "inaturalist.png"
@@ -279,9 +279,6 @@ enableGitInfo = true
     icon = "ebird"
     icon_pack = "fab"
     link = "https://ebird.org/profile/MTM5OTI2/US-CA"
-
-
-
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -320,13 +317,6 @@ enableGitInfo = true
   name = "Contact"
   url = "#contact"
   weight = 6
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
 
 # Search.
 [params.search]

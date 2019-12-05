@@ -41,9 +41,9 @@ I'm a Postdoctoral Associate in the [Kraft Lab](https://sites.lifesci.ucla.edu/e
 
 My postdoctoral research focused has focused on two main areas: 
 
-1. Providing a general definition for higher order interactions (HOIs) and in testing for their strength in natural ecosystems. (link to preprint)
+1. Providing a general definition for higher order interactions (HOIs) and in testing for their strength in natural ecosystems. [biorXiv Preprint](https://www.biorxiv.org/content/10.1101/857920v1)
 
-2. Integrating plant functional traits into models of community assembly and coexistence. (link to github)
+2. Integrating plant functional traits into models of community assembly and coexistence. 
 
 I'm also excited about the rapid growth of citizen science datasets such as  [iNaturalist](https://www.inaturalist.org/) and [eBird](https://www.ebird.org). 
 I believe these datasets are an ideal opportunity for teaching undergraduates and graduate students in ecology about basic ecological patterns and processes as well as opportunities to engage the broader community outside of academia.  These datasets are also providing an increasingly detailed look at species occurence in urban landscapes--habitats that have often been overlooked by field ecologists. These datasets also provide opportunities to test ecologicial forecasts in real time. 

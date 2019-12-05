@@ -34,12 +34,24 @@ filter_default = 0
    tag = "*"
 
  [[filter]]
+   name = "Trait based models of community assembly"
+   tag = "Functional traits"
+   
+ [[filter]]
    name = "Ecological Forecasting"
    tag = "Forecasting"
 
  [[filter]]
-   name = "Species Coexistence"
-   tag = "Coexistence"
+   name = "Higher order interactions"
+   tag = "HOIs"
+ 
+ [[filter]]
+   name = "Indirect effects"
+   tag = "Indirect effects"
+   
+ [[filter]]
+   name = "Sagebrush response to climate change"
+   tag = "Sagebrush"
    
  [[filter]]
    name = "Citizen Science"

@@ -3,7 +3,7 @@
 date = 2019-05-05T00:00:00
 
 # Project title.
-title = "Forecasting"
+title = "Ecological Forecasting"
 
 # Project summary to display on homepage.
 summary = "Predicting the future state of ecosystems."
@@ -13,7 +13,7 @@ image_preview = "forecasting-preview.gif"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Forecasting", "Succession", "Restoration", "Bayesian", "Climate Change"]
+tags = ["Prediction", "Bayesian", "Climate Change"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,19 +28,11 @@ caption = "Forecasting sagebrush steppe change in response to precipitation expe
 
 +++
 
-The science of ecology should play a central role in informing our decisions about how to manage the environment. However, this statement glosses over the fact that the understanding provided by science always comes with a degree of uncertainty and that there are often competing answers to any question.  What then is the best way for ecologists to *demonstrate* the degree of uncertainty in our understanding? And what is the best way to ejudicate competing claims of ecological understanding in the literature? 
+What  is the best way for ecologists to *demonstrate* our understanding of nature? 
+ 
+Ecologists often make assertions about how well their theories work, but they rarely rigorously test their theories by making predictions. The error between what we predict will hapen and what actually does happen is perhaps the most honest measure of how much more we have to learn about any biological system.  
 
-Some ecologists are increasingly arguing that the most persuasive demonstration of ecological understanding is to make and test predictions.
-
-Peter Adler and I took a crack at making ecological predictions in a drought-shelter and irrigation experiment in the sagebrush steppe of eastern Idaho.  
-
-We used several decades worth of data to build population models for the dominant plant species in this community.  By fitting regression for each each species growth in response to annual temperature variation we developed a statistical model that should, in theory, predict how those species would respond to climate in the future.  
-
-We could have waited several decades for the climate to continue changing in order to test these predicitons.  But that would take... several decades.  
-
-As a shortcut we used a drought shelter and irrigation experiment in the field to test whether species' responses to historical climate variation could predict species contemporary response to short-term experimentally imposed drought and irrigation.  
-
-Our resuls show that... 
+My advisor at Utah State University and I used long-term data to fit climate driven population models for four species of perennial plant in the sagebrush steppe of eastern Idaho. We then generated predictions for how each of the four species would respond in novel conditions--either a 50% increase in spring and summer precipitation or a 50% decrease. We imposed these conditions experimentally on natural plant communities with drought shelters and paired irrigation plots. We collected data on the populations in the plots for five years to validate our predictions.  
 
 
 
