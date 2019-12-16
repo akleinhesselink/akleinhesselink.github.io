@@ -63,8 +63,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-# image = "headers/bubbles-wide.jpg"
-# caption = "My caption :smile:"
+image = "shrubs.jpg"
+caption = "Shrubs, such as this *Ericameria ericoides*, provide a sheltered microhabitat and change soil properties in windswept coastal dunes of Coastal California. These microhabitats are home to a distinct annual plant community compared to open environments. They also increase the growth of *Bromus diandrus* an exotic annual grass invading these environments."
 
 +++
         

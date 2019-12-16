@@ -63,8 +63,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-# image = "headers/bubbles-wide.jpg"
-# caption = "My caption :smile:"
+image = "iceplant.jpg"
+caption = "Iceplant, a succulent species native to South Africa, is a common invader in coastal California dune ecosystems. Research led by Susan Magnoli shows that it has a large impact on annual plant communities."
 
 +++
         

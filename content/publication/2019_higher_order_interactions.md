@@ -63,8 +63,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-# image = "headers/bubbles-wide.jpg"
-# caption = "My caption :smile:"
+image = "hoi.png"
+caption = "Models of species interaction can be pairwise (A) or involve **higher order interactions** (B).  Higher order interactions occur when competitors modify each other's effects and this requires additional parameters, $\\beta_{i(1,2)}$, to model that were not present in the separate pairwise cases."
 
 +++
         

@@ -63,8 +63,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-# image = "headers/bubbles-wide.jpg"
-# caption = "My caption :smile:"
+image = "snowmelt.jpg"
+caption = "My co-author Danielle Smull, used infrared heaters to melt winter snow cover and test the interactive effects of fungal pathogens and snow on cheatgrass fitness."
 
 +++
         
