@@ -39,3 +39,5 @@ While a M.S. student, I taught lab sections for Biol. 110: “Biological Inquiry
 I have a deep commitment to teaching ecology and natural history to the general public and to K-12 students. From 2009 to 2010 I volunteered as Vice President and led environmental education and birdwatching field trips for elementary school students for [San Francisco Nature Education](http://sfnature.org/). While working in the Golden Gate National Parks Conservancy I served as a mentor for the [LINC Program](https://www.parksconservancy.org/programs/linc-summer-high-school-program) which provides summer-long work and education experiences for highschool students within Golden Gate National Recreation Area. 
 
 I lead weekly [birdwatching field trips on campus](https://www.botgard.ucla.edu/event/bruin-birding-club-fall-migration-garden-walks-5/) for the UCLA Bruin Audubon Society (recently [featured in the Daily Bruin](https://dailybruin.com/2019/11/15/bruin-audubon-society-and-birding-club-makes-bird-watching-a-hoot-for-students/)).  I also have been involved as a board member and trip leader for the UCLA Bruin Naturalist Club. 
+
+
