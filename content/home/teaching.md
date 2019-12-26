@@ -17,9 +17,9 @@ weight = 60
 
 ### UCLA IoES Capstone Advisor
 
-I am currently a faculty advisor for undergraduate Environmental Science majors completing the [UCLA Institute of the Environment and Society (IoES)](https://www.ioes.ucla.edu/) senior captstone project. The [IoES senior practicum](https://www.ioes.ucla.edu/envisci/senior-practicum/) gives undergraduates a chance to engage in meaningful research aimed at solving real world environmental issues. This winter and spring I am working with seven highly motivated undergraduates in evaluating native seed sources and restoration opportunities in the Los Angeles Basin. 
+I am currently a faculty advisor for the [IoES senior practicum](https://www.ioes.ucla.edu/envisci/senior-practicum/) at UCLA. The practicum gives undergraduates a chance to engage in meaningful research aimed at solving real world environmental issues. This winter and spring I am working with seven highly motivated undergraduates in evaluating native seed sources and restoration opportunities in the Los Angeles Basin. 
 
-### The Carpentries
+### Software Carpentry
 
 I am trained instructor for [The Carpentries](https://carpentries.org/). In spring of 20218, I led a Software Carpentry workshop for the Ecology and Evolutionary Biology Department at UCLA [UCLA  EEB 2018-4-7](https://ucla-data-archive.github.io/2018-04-07-ucla-eeb/). Our workshop focused on teaching the basics of the [unix shell](http://swcarpentry.github.io/shell-novice/), [git and github](http://swcarpentry.github.io/git-novice/) for coding collaboration and [R](http://swcarpentry.github.io/r-novice-gapminder/) for data analysis, data visualization and GIS.
 

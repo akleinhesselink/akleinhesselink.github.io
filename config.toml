@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = ""
+baseurl = "https://andysecological.netlify.com/"
 
 # Title of your site
 title = "Andy Kleinhesselink"
@@ -45,6 +45,7 @@ enableGitInfo = true
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
+
 [blackfriday]
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
@@ -69,7 +70,7 @@ enableGitInfo = true
   organizations = [ { name = "University of California Los Angeles", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "IMG_1095.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "arklein@ucla.edu"
   iNaturalist = "https://www.inaturalist.org/people/andy71"
   eBird = "https://ebird.org/profile/MTM5OTI2/US-CA"
@@ -236,7 +237,7 @@ enableGitInfo = true
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "https//github.com/akleinhesselink"
+    link = "//github.com/akleinhesselink"
 
   [[params.social]]
     icon = "google-scholar"
