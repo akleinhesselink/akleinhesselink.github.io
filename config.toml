@@ -62,8 +62,8 @@ enableGitInfo = true
 
   # Your details.
   name = "Andy Kleinhesselink"
-  role = "Postdoctoral Associate at UCLA"
-  field = "Community Ecology"
+  role = "Postdoctoral Associate"
+  field = "Ecology and Environmental Education"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.

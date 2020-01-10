@@ -37,7 +37,7 @@ weight = 5
 
 # Biography
 
-I'm a Postdoctoral Associate in the [Kraft Lab](https://sites.lifesci.ucla.edu/eeb-kraft/) at UCLA. 
+I'm currently a postdoc in the [Kraft Lab](https://sites.lifesci.ucla.edu/eeb-kraft/) at UCLA. I am looking for career opportunities that combine my passion for natural history, education and/or ecological restoration and conservation. 
 
 My postdoctoral research focused has focused on two main areas:
 
