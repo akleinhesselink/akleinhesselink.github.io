@@ -22,12 +22,12 @@ weight = 20
  </figcaption>
 </figure>
 
-Community science projects such as [iNaturalist](www.inaturalist.org) and [eBird](www.ebird.org) offer incredible new opportunities to monitor the biodiversity around us in real time. Perhaps more importantly, these projects connect naturalists from around the globe and inspire them to explore biodiversity in greater depth. Professional ecologists and environmental scientists have only just begun to take advantage of these data--for example see this paper from the LA County Natural History museum: [Li et al. (2019) _Frontiers in Ecology and Evolution_](https://www.frontiersin.org/articles/10.3389/fevo.2019.00277/full). 
+Community science projects such as [iNaturalist](www.inaturalist.org) and [eBird](www.ebird.org) offer incredible new opportunities to monitor the biodiversity around us in real time. Perhaps more importantly, these projects connect naturalists from around the globe and inspire them to explore biodiversity in greater depth. Professional ecologists and environmental scientists have only just begun to take advantage of these data. 
 
 
 ### Contributions to iNaturalist
 
-Since participating in a [Bioblitz of the Amargosa River](https://www.scienceforconservation.org/products/amargosa-bioblitz-2017) organized by the Nature Conservancy in 2017, I became an enthusiastic user and promoter of iNaturalist. 
+I got hooked on iNaturalist during a [2017 Bioblitz of the Amargosa River](https://www.scienceforconservation.org/products/amargosa-bioblitz-2017) organized by the Nature Conservancy.  Since then I have been an enthusiastic contributor and promoter of iNaturalist.  
 
 - I have contributed nearly 4000 observations, mostly from the Los Angeles area [(link to iNat profile)](https://www.inaturalist.org/people/andy71). 
 - I created the [UCLA Biodiversity Project](https://www.inaturalist.org/projects/ucla-campus-biodiversity) to collect observations of nature from the UCLA campus. So far we have documented over 1400 species on campus! 
@@ -84,20 +84,20 @@ I am a trip leader and adviser for the [Bruin Naturalist Club](https://www.ioes.
 - 02/24/19 [UCSB Sedgwick Reserve](https://www.inaturalist.org/projects/sedgwick-biodiversity) 
 - 01/20/19 BNC Trip to tidepools of Palos Verdes with Regina Wetzer, Kathy Omura and Dean Pentcheff of the LA County Natural History Museum. 
  
-### eBird and birding
+### Contributions to eBird
 
 <figure>
- <img src="/home/community_science_files/cencfjckgambcabb.jpeg" alt="Townsend's Warbler" width="400px"/>
+ <img src="/home/community_science_files/towa.jpg" alt="Townsend's Warbler" width="400px"/>
  <figcaption>
  A Townsend's Warbler in the UCLA Botanical Garden. 
  </figcaption>
 </figure>
 
-I got hooked on birding at the Point Reyes Christmas Bird Count in 2005.  Since then I have contributed hundreds of checklists to [eBird (link to profile)](https://ebird.org/profile/MTM5OTI2/US-CA-037). At UCLA, I have made a concerted effort to document the birds on campus and in the Botanical Garden in particular. In 2017, I helped M.S. student Samuel Bressler start the UCLA Birding club and Audubon Chapter [(featured in the Daily Bruin)](https://dailybruin.com/2019/11/15/bruin-audubon-society-and-birding-club-makes-bird-watching-a-hoot-for-students/).  I lead weekly [birdwatching trips on campus](https://www.botgard.ucla.edu/event/bruin-birding-club-fall-migration-garden-walks-5/) and regular weekend trips with the birding club to hotspots around Southern California.  
+I got hooked on birding at the Point Reyes Christmas Bird Count in 2005.  Since then I have contributed hundreds of checklists to [eBird (link to profile)](https://ebird.org/profile/MTM5OTI2/US-CA-037). At UCLA, I have made an effort to document the birds on campus during my free time (96 speciess so far). In 2017, I helped M.S. student Samuel Bressler start the UCLA Birding club and Audubon Chapter [(featured in the Daily Bruin)](https://dailybruin.com/2019/11/15/bruin-audubon-society-and-birding-club-makes-bird-watching-a-hoot-for-students/).  I lead weekly [birdwatching trips on campus](https://www.botgard.ucla.edu/event/bruin-birding-club-fall-migration-garden-walks-5/) and regular weekend trips with the birding club to hotspots around Southern California.  
 
 <figure>
- <img src="/home/community_science_files/IMG_20191117_165539.jpg" alt="" width="700px"/>
+ <img src="/home/community_science_files/salton.jpg" alt="" width="700px"/>
  <figcaption>
- The UCLA Birding Club on a recent visit to the Sono Bono NWR at the south end of the Salton Sea.  
+ The UCLA Birding Club on a recent visit to the Sonny Bono NWR at the south end of the Salton Sea.  
  </figcaption>
 </figure>

@@ -18,7 +18,7 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 0
+view = 1
 
 # Filter toolbar.
 
@@ -29,36 +29,44 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
- [[filter]]
-   name = "All"
-   tag = "*"
-
- [[filter]]
-   name = "Trait based models of community assembly"
-   tag = "Functional traits"
-   
- [[filter]]
-   name = "Ecological Forecasting"
-   tag = "Forecasting"
-
- [[filter]]
-   name = "Higher order interactions"
-   tag = "HOIs"
- 
- [[filter]]
-   name = "Indirect effects"
-   tag = "Indirect effects"
-   
- [[filter]]
-   name = "Sagebrush response to climate change"
-   tag = "Sagebrush"
-   
- [[filter]]
-   name = "Citizen Science"
-   tag = "Citizen"
-   
- [[filter]]
-   name = "Restoration Ecology"
-   tag = "Restoration"
+# [[filter]]
+#   name = "All"
+#   tag = "*"
+# 
+# [[filter]]
+#   name = "Forecasting"
+#   tag = "Forecasting"
+# 
+# [[filter]]
+#   name = "Trait based models of community assembly"
+#   tag = "Functional traits"
+#  
+# [[filter]]
+#   name = "Higher order interactions"
+#   tag = "HOIs"
+# 
+# [[filter]]
+#   name = "Indirect effects"
+#   tag = "Indirect effects"
+#   
+# [[filter]]
+#   name = "Sagebrush response to climate change"
+#   tag = "Sagebrush"
+#   
+# [[filter]]
+#   name = "Citizen Science"
+#   tag = "Citizen"
+#   
+# [[filter]]
+#   name = "Restoration Ecology"
+#   tag = "Restoration"
 
 +++
+
+At UCLA, my postdoctoral research has focused on two main projects:
+
+1. Providing a general definition for higher order interactions (HOIs) and in testing for their strength in natural ecosystems. [biorXiv Preprint](https://www.biorxiv.org/content/10.1101/857920v1)
+2. Building on previous work in the Kraft lab [Kraft et al. 2015](https://www.pnas.org/content/112/3/797.short) I am working to develop a more general understanding of how plant functional traits influence community composition and competition between species. 
+
+The links below provide more details about these and other ongoing projects. 
+

@@ -303,7 +303,7 @@ enableGitInfo = true
   name = "Teaching"
   url = "#teaching"
   weight = 3
-
+  
 [[menu.main]]
   name = "Publications"
   url = "#publications"
@@ -318,7 +318,6 @@ enableGitInfo = true
   name = "Posts"
   url = "#posts"
   weight = 6
-
 
 [[menu.main]]
   name = "Contact"

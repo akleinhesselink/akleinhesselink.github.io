@@ -38,7 +38,3 @@ One of the highlights of my career was working with undergraduates at Utah State
 ### Undergraduate Biology
 
 While a M.S. student, I taught lab sections for Biol. 110: “Biological Inquiry” and Biol. 121: “Diversity Structure and Function” for the [Department of Biology at Sonoma State University](http://biology.sonoma.edu/). 
-
-
-
-

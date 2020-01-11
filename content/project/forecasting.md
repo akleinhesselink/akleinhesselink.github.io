@@ -6,7 +6,7 @@ date = 2019-05-05T00:00:00
 title = "Ecological Forecasting"
 
 # Project summary to display on homepage.
-summary = "Predicting the future state of ecosystems."
+summary = "Can ecological models actually predict how populations will respond to future climate change?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "shelters.jpg"

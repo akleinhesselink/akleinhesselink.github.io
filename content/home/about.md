@@ -5,7 +5,7 @@ active = true
 date = 2019-05-05T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 2
 
 # List your academic interests.
 [interests]
@@ -37,11 +37,4 @@ weight = 5
 
 # Biography
 
-I'm currently a postdoc in the [Kraft Lab](https://sites.lifesci.ucla.edu/eeb-kraft/) at UCLA. I am looking for career opportunities that combine my passion for natural history, education and/or ecological restoration and conservation. 
-
-My postdoctoral research focused has focused on two main areas:
-
-1. Providing a general definition for higher order interactions (HOIs) and in testing for their strength in natural ecosystems. [biorXiv Preprint](https://www.biorxiv.org/content/10.1101/857920v1)
-2. Building on previous work in the Kraft lab [Kraft et al. 2015](https://www.pnas.org/content/112/3/797.short) I am working to develop a more general understanding of how plant functional traits influence community composition and competition between species. 
-
-
+I am currently a postdoc in the [Kraft Lab](https://sites.lifesci.ucla.edu/eeb-kraft/) at UCLA. I am looking for career opportunities that combine my passion for natural history, environmental education and ecological restoration and conservation. 
