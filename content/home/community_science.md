@@ -22,8 +22,7 @@ weight = 20
  </figcaption>
 </figure>
 
-Community science projects such as [iNaturalist](www.inaturalist.org) and [eBird](www.ebird.org) offer incredible new opportunities to monitor the biodiversity around us in real time. Perhaps more importantly, these projects connect naturalists from around the globe and inspire them to explore biodiversity in greater depth. Professional ecologists and environmental scientists have only just begun to take advantage of these data. 
-
+Community science projects are a powerful way for local stakeholders and students of all ages to get involved directly in monitoring the environment and biodiversity around them. Well designed community science initiatives have the potential to revolutionize ecology and environmental science by connected users around the world and bridging the gap between the interested public and research scientists. In recent years, I have been a dedicated contributor and promoter of [iNaturalist](www.inaturalist.org) and [eBird](www.ebird.org).
 
 ### Contributions to iNaturalist
 
@@ -82,7 +81,7 @@ I am a trip leader and adviser for the [Bruin Naturalist Club](https://www.ioes.
 - 11/15/19 Corn Springs and the Salton Sea. 
 - 05/25/19 [UCLA Stunt Ranch Bioblitz](https://www.inaturalist.org/projects/bnc-bioblitz-at-stunt-ranch-spring-2019). 
 - 02/24/19 [UCSB Sedgwick Reserve](https://www.inaturalist.org/projects/sedgwick-biodiversity) 
-- 01/20/19 BNC Trip to tidepools of Palos Verdes with Regina Wetzer, Kathy Omura and Dean Pentcheff of the LA County Natural History Museum. 
+- 01/20/19 BNC Trip to tide pools of Palos Verdes with Regina Wetzer, Kathy Omura and Dean Pentcheff of the LA County Natural History Museum. 
  
 ### Contributions to eBird
 
@@ -93,7 +92,7 @@ I am a trip leader and adviser for the [Bruin Naturalist Club](https://www.ioes.
  </figcaption>
 </figure>
 
-I got hooked on birding at the Point Reyes Christmas Bird Count in 2005.  Since then I have contributed hundreds of checklists to [eBird (link to profile)](https://ebird.org/profile/MTM5OTI2/US-CA-037). At UCLA, I have made an effort to document the birds on campus during my free time (96 speciess so far). In 2017, I helped M.S. student Samuel Bressler start the UCLA Birding club and Audubon Chapter [(featured in the Daily Bruin)](https://dailybruin.com/2019/11/15/bruin-audubon-society-and-birding-club-makes-bird-watching-a-hoot-for-students/).  I lead weekly [birdwatching trips on campus](https://www.botgard.ucla.edu/event/bruin-birding-club-fall-migration-garden-walks-5/) and regular weekend trips with the birding club to hotspots around Southern California.  
+I have been an avid birder since participating in the Point Reyes Christmas Bird Count in 2005.  Since then I have contributed hundreds of checklists to [eBird (link to profile)](https://ebird.org/profile/MTM5OTI2/US-CA-037). At UCLA, I have tried to document the birds on campus (96 species so far). In 2017, I helped M.S. student Samuel Bressler start the UCLA Birding club and Audubon Chapter [(featured in the Daily Bruin)](https://dailybruin.com/2019/11/15/bruin-audubon-society-and-birding-club-makes-bird-watching-a-hoot-for-students/).  I lead weekly [birdwatching trips on campus](https://www.botgard.ucla.edu/event/bruin-birding-club-fall-migration-garden-walks-5/) and regular weekend trips with the birding club to hotspots around Southern California.  
 
 <figure>
  <img src="/home/community_science_files/salton.jpg" alt="" width="700px"/>
