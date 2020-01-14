@@ -37,4 +37,4 @@ weight = 2
 
 # Biography
 
-I am currently a postdoc in the [Kraft Lab](https://sites.lifesci.ucla.edu/eeb-kraft/) at UCLA. I am looking for career opportunities that combine my passion for natural history, ecological research, environmental education and conservation. 
+I am currently a postdoc in the [Kraft Lab](https://sites.lifesci.ucla.edu/eeb-kraft/) at UCLA. I am looking for career opportunities that combine my passion for natural history, ecological research, environmental education and conservation. Find a link to my academic CV [here](files/Kleinhesselink_CV.pdf). 
