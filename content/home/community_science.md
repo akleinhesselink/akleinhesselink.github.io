@@ -22,11 +22,11 @@ weight = 20
  </figcaption>
 </figure>
 
-Community science projects are a powerful way for local stakeholders and students of all ages to get involved directly in monitoring the environment and biodiversity around them. Well designed community science initiatives have the potential to revolutionize ecology and environmental science by connected users around the world and bridging the gap between the interested public and research scientists. In recent years, I have been a dedicated contributor and promoter of [iNaturalist](www.inaturalist.org) and [eBird](www.ebird.org).
+Community science projects are a powerful way for local stakeholders and students of all ages to get involved directly in monitoring the environment and biodiversity around them. I believe, well designed community science projects have the potential to revolutionize ecology and environmental science by connected users around the world and bridging the gap between the interested public and research scientists. In recent years, I have been a dedicated contributor and promoter of [iNaturalist](www.inaturalist.org) and [eBird](www.ebird.org).
 
 ### Contributions to iNaturalist
 
-I got hooked on iNaturalist during a [2017 Bioblitz of the Amargosa River](https://www.scienceforconservation.org/products/amargosa-bioblitz-2017) organized by the Nature Conservancy.  Since then I have been an enthusiastic contributor and promoter of iNaturalist.  
+I got hooked on iNaturalist during a [2017 Bioblitz of the Amargosa River](https://www.scienceforconservation.org/products/amargosa-bioblitz-2017) organized by the Nature Conservancy.  Since then I have been an enthusiastic contributor and promoter of iNaturalist. Here I summarise my contributions to and work to promote iNaturalist in the UCLA community: 
 
 - I have contributed nearly 4000 observations, mostly from the Los Angeles area [(link to iNat profile)](https://www.inaturalist.org/people/andy71). 
 - I created the [UCLA Biodiversity Project](https://www.inaturalist.org/projects/ucla-campus-biodiversity) to collect observations of nature from the UCLA campus. So far we have documented over 1400 species on campus! 
