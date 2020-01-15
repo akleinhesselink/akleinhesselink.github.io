@@ -15,6 +15,15 @@ weight = 30
 
 +++
 
+<figure>
+ <img src="/home/teaching_files/teaching.jpg" alt="TEXT " width="700px "/>
+ <figcaption>
+ UCLA students, staff and the general public on a birdwatching tour of the UCLA Mildred Mathias Botanical Garden (photo: Nurit Katz). 
+ </figcaption>
+</figure>
+
+I mentor undergraduate researchers, teach hands-on computing and statistical analysis workshops in __R__, and lead natural history field trips for K-12 students and the general public. 
+
 ### UCLA IoES Capstone Advisor
 
 I am currently a faculty advisor for the [IoES senior practicum](https://www.ioes.ucla.edu/envisci/senior-practicum/) at UCLA. The practicum gives undergraduates a chance to engage in meaningful research aimed at solving real world environmental issues. This winter and spring I am working with seven highly motivated undergraduates in evaluating native seed sources and restoration opportunities in the Los Angeles Basin. 

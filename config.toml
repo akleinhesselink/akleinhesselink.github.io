@@ -232,7 +232,7 @@ enableGitInfo = true
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:{first}.[[last]]@ucla.edu"
+    link = "mailto:arklein@ucla.edu"
 
   [[params.social]]
     icon = "github"
