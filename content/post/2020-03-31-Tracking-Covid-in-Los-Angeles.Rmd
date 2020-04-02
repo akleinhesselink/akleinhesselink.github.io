@@ -15,7 +15,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 The <a href="http://www.publichealth.lacounty.gov/media/Coronavirus/">Los Angeles Department of Public Health</a> has been releasing detailed data on Covid-19 cases across Los Angeles County. I've used this data to create a an interactive map of COVID-19 cases in the county and to display the increases in cases across different neighborhoods. 
 
-<a href="https://beautiful.shinyapps.io/COVID19-in-Los-Angeles/">https://beautiful.shinyapps.io/COVID19-in-Los-Angeles/</a>
+<iframe src="https://beautiful.shinyapps.io/COVID19-in-Los-Angeles/" width=1000 height=800"></iframe>
 
 The map of cases of per 1000 residents clearly shows higher frequency of laboratory confirmed cases (LCC) in what are known as wealthier neighborhoods such as Beverly Crest, Brentwood, Manhattan Beach, Melrose, West Hollywood and Hancock Park.  It's tempting to conclude that this reflects preferential access to limited coronavirus tests.  However, it could be that that true case prevalance is higher in these neighborhoods as well--perhaps they have more travelers or stronger connections to New York where there is a much higher rate of infection. 
 
