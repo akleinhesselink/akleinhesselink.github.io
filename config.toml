@@ -71,10 +71,10 @@ enableGitInfo = true
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "arklein@ucla.edu"
+  email = "andy.kleinhesselink@gmail.com"
   iNaturalist = "https://www.inaturalist.org/people/andy71"
   eBird = "https://ebird.org/profile/MTM5OTI2/US-CA"
-  address = "Department of Ecology and Evolutionary Biology, 621 Charles E. Young Drive South, Box 951606, Los Angeles CA 90095, United States"
+  address = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
